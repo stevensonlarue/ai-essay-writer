@@ -1,4 +1,4 @@
-# ai-essay-writer
+# what is ai essay writer
 
 The AI Essay Writer is a special tool that uses artificial intelligence to help people write essays. It's like a smart helper for students, teachers, and anyone who needs to write. This tool understands what you want to write about and helps you create essays that are interesting and well-organized.
 
